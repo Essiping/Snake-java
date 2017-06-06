@@ -1,4 +1,4 @@
-package com.snake.game;
+package com.ascendant.snake;
 
 /* Class to render all elements and text 
  */
